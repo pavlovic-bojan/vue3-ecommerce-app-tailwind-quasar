@@ -1,11 +1,11 @@
 #  Quasar App (vue3-ecommerce-app-tailwind-quasar)
 This repository is the result of my independent project to train certain things in VUE 3 Front End Development.
 
-The goal of the project is to clone the design of the web store [REMIKS](https://remiks.com/) for the purpose of learning front-end development
+The goal of the project is to clone the design of the web store [REMIKS](https://remiks.com/) for the purpose of learning front-end development.
 
-I spent 30 days on the realization of setup this project
+I spent 30 days on the realization of setup this project.
 
-Side information: To use the application in a special environment the author accepts no responsibility if you cause damage to third parties
+Side information: To use the application in a special environment the author accepts no responsibility if you cause damage to third parties.
 
 ## Images of project appearance
 ***
