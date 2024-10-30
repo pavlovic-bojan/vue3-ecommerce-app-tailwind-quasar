@@ -23,7 +23,7 @@ A list of technologies used within the project:
 * [Vue](https://vuejs.org/about/releases): Version 3.0.0
 * [vue-router](https://router.vuejs.org/): Version 4.0.0
 
-Feel free to copy the project from this repository into your IDEA run the project, and make sure to give your feedback.
+Feel free to copy the project from this repository into your IDE run the project, and make sure to give your feedback.
 
 ## Collaboration
 ***
